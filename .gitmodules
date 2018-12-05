@@ -1,0 +1,6 @@
+[submodule "arduino-mode"]
+	path = arduino-mode
+	url = ./arduino-mode/
+[submodule "lua-mode"]
+	path = lua-mode
+	url = ./lua-mode/
